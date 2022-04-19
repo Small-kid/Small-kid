@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Small kid
-- 👀 I’m interested in Swift coding, birdwatching, bird whispering, science, saving the environment, curing chronic diseases and tech stuff.
+- 👀 I’m interested in Swift coding, birdwatching, bird whispering, science, saving the environment, curing chronic diseases and tech stuff...
 - 🌱 I’m currently learning SWift coding
 - 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me ... sry unavailable...
