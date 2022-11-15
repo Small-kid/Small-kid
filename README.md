@@ -1,4 +1,4 @@
-- Hi, I’m Small kid
+- Hi, I’m Alpheus
 - I’m interested in Swift coding, birdwatching, bird whispering, science, saving the environment, curing chronic diseases and tech stuff...
 - I’m currently learning Swift coding
 - I’m looking to collaborate on Swift
